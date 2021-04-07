@@ -1,0 +1,27 @@
+    NIVELES
+*Propietario
+    Aquel que genera/crea un archivo/sobre el que tenga derechos.
+*Grupo
+    Aquel formado por varios usuarios 
+*Otros
+    Aquel que no es propietario y no pertenece a un grupo
+
+    PERMISOS PARA DIRECTORIOS
+*Lectura
+    Permite visualizar el contenido
+*Escritura
+    Permite crear/eliminar archivos y directorios dentro de este 
+    directorio
+*Ejecucion 
+    Permite entrar al directorio
+
+    PERMISOS PARA ARCHIVOS
+*Lectura
+    Permite visualizar el contenido
+*Escritura
+    Permite crear/eliminar el contenido, tambien se pueden modificar 
+    los permisos del archivo
+*Ejecucion
+    Permite ejecutar el contenido del archivo
+
+    
